@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../guestbook">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../guestbook/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/../guestbook/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/league/commonmark-ext-table" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/scrivo/highlight.php" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/spatie/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../guestbook/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
