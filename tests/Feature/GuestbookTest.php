@@ -11,13 +11,7 @@ class GuestbookTest extends TestCase
 {
     use DatabaseMigrations;
 
-    /** @test*/
-    public function check_list_load(){
-        factory(Guestbook::class,3)->create();
-        $response = $this->json("get","api/guestbook");
-        $response->assertStatus(200);
-
-    }
+    
 
     /** @test */
     public function check_list_order_by_desc(){
